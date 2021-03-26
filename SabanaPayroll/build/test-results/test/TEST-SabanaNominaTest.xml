@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SabanaNominaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T19:56:44" hostname="VALEROOMS" time="0.006">
+<testsuite name="SabanaNominaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-26T19:59:39" hostname="VALEROOMS" time="0.011">
   <properties/>
-  <testcase name="shouldPrintPayroll" classname="SabanaNominaTest" time="0.006"/>
+  <testcase name="shouldCalculateEmployeeSalaryBySalary" classname="SabanaNominaTest" time="0.002"/>
+  <testcase name="shouldCalculateEmployeeSalary" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateEmployeeSalaryByComission" classname="SabanaNominaTest" time="0.001"/>
+  <testcase name="shouldCalculateUniversitytSalary" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldPrintPayroll" classname="SabanaNominaTest" time="0.007"/>
+  <testcase name="shouldCalculateEmployeeSalaryByHours" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateDepartmentSalary" classname="SabanaNominaTest" time="0.0"/>
   <system-out><![CDATA[Juan Valderrama, departamento Ingenieria,  salario 2.0 $, pago por comision
 Mia Lacouture, departamento Medicina,  salario 15.0 $, pago por horas
 Vale Romero, departamento Psicologia,  salario 0.92 $, pago por salario

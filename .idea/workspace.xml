@@ -28,19 +28,7 @@
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeByComission.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeByComission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeByHours.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeByHours.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeBySalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/EmployeeBySalary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/SabanaPayroll.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/main/SabanaPayroll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/test/SabanaNominaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/classes/java/test/SabanaNominaTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/classes/SabanaNominaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/classes/SabanaNominaTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/reports/tests/test/packages/default-package.html" afterDir="false" />
@@ -48,11 +36,6 @@
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeByComission.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeByComission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeByHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeByHours.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeBySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/EmployeeBySalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/SabanaPayroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/SabanaPayroll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/test/java/SabanaNominaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/test/java/SabanaNominaTest.java" afterDir="false" />
     </list>

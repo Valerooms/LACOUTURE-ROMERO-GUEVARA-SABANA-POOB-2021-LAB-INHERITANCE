@@ -1,6 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.DisplayName;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,22 +26,26 @@ public class SabanaNominaTest
 
 
     @Test
+    @DisplayName("GIVEN the ID of an employee by salary WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateEmployeeSalaryBySalary()
     {
        assertTrue(Double.compare(0.92,es1.calculateSalary()) ==0);
     }
     @Test
+    @DisplayName("GIVEN the ID of an employee by hours WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateEmployeeSalaryByHours()
     {
         assertTrue(Double.compare(15,eh1.calculateSalary()) ==0);
     }
     @Test
+    @DisplayName("GIVEN the ID of an employee by comission WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateEmployeeSalaryByComission()
 
     {
         assertEquals(0, Double.compare(2, ec1.calculateSalary()));
     }
     @Test
+    @DisplayName("GIVEN the ID of an employee WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateEmployeeSalary()
     {
         departments.add(d1);
@@ -64,6 +69,7 @@ public class SabanaNominaTest
     }
 
     @Test
+    @DisplayName("GIVEN the ID of a department WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateDepartmentSalary()
     {
         departments.add(d1);
@@ -86,6 +92,7 @@ public class SabanaNominaTest
         
     }
     @Test
+    @DisplayName("GIVEN a university WHEN trying to calculate his salary THEN should calculate it")
     public void shouldCalculateUniversitytSalary()
     {
 
@@ -103,6 +110,7 @@ public class SabanaNominaTest
 
     }
     @Test
+    @DisplayName("GIVEN the payrolls of each employee WHEN trying to print it THEN print it")
     public void shouldPrintPayroll() {
         departments.add(d1);
         departments.add(d2);

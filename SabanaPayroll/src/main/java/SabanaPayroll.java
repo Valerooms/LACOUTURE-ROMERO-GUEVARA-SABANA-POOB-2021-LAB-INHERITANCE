@@ -8,6 +8,11 @@ public class SabanaPayroll
     double salary=0;
     private List<Department> departments=new ArrayList<>();
 
+    /**
+     * Calculates the salary of an specific employee
+     * @param employeeId
+     * @return The employee salary
+     */
     public double calculateEmployeeSalary(UUID employeeId)
     {
         double salary = 0;
@@ -17,6 +22,12 @@ public class SabanaPayroll
         }
         return salary;
     }
+
+    /**
+     * Calculates the salary of an specific department
+     * @param departmentId
+     * @return the department salary
+     */
     public double calculateDeparmentSalaries(UUID departmentId)
     {
         double salary = 0;
@@ -29,6 +40,11 @@ public class SabanaPayroll
         }
         return salary;
     }
+
+    /**
+     * Calculate the whole university salary
+     * @return The university salary
+     */
     public double calculateUniversitySalaries()
     {
         
@@ -38,6 +54,10 @@ public class SabanaPayroll
         }
         return salary;
     }
+
+    /**
+     * Prints each employee payroll
+     */
     public void printPayroll()
     {
         
