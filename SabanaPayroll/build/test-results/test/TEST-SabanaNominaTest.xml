@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SabanaNominaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T03:47:02" hostname="VALEROOMS" time="0.002">
+  <properties/>
+  <testcase name="shouldCalculateEmployeeSalaryBySalary" classname="SabanaNominaTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

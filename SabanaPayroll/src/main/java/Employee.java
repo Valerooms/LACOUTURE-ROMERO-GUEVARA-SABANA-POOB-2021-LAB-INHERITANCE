@@ -7,16 +7,24 @@ public class Employee
     public String lastName;
     public Department department;
     
-    public Employee(String name, String lastName, UUID id, Department department)
+    public Employee(String name, String lastName, Department department)
     {
         this.name=name;
         this.lastName=lastName;
-        this.id=id;
+        this.id=UUID.randomUUID();
         this.department=department;
     }
     @Override
     public String toString()
     {
         return "a";
+    }
+    public UUID getId()
+    {
+        return this.id;
+    }
+    public double calculateSalary()
+    {
+        return 1.23;
     }
 }

@@ -23,7 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1206095e-fe1d-4a9b-b2eb-d36f7ba4d952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SabanaPayroll/src/main/java/SabanaPayroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/SabanaPayroll/src/main/java/SabanaPayroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
