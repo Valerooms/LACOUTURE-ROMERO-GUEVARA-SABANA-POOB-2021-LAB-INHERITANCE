@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SabanaNominaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T03:47:02" hostname="VALEROOMS" time="0.002">
+<testsuite name="SabanaNominaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-03-26T05:16:21" hostname="VALEROOMS" time="0.006">
   <properties/>
   <testcase name="shouldCalculateEmployeeSalaryBySalary" classname="SabanaNominaTest" time="0.002"/>
+  <testcase name="shouldCalculateEmployeeSalary" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateEmployeeSalaryByComission" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateUniversitytSalary" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateEmployeeSalaryByHours" classname="SabanaNominaTest" time="0.0"/>
+  <testcase name="shouldCalculateDepartmentSalary" classname="SabanaNominaTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

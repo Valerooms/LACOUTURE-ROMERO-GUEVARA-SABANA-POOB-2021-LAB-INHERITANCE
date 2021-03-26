@@ -1,10 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.UUID;
 
 public class Department 
 {
     public UUID id;
     public String name;
-    //private Employee employees;
+    private List<Employee> employees=new ArrayList<>();
     public Department (String name, UUID id)
     {
         this.id = id;
@@ -12,10 +14,36 @@ public class Department
     }
     public double calculateSalary()
     {
-        return 1.23;
+        double salary = 0;
+        for (Employee e : this.employees)
+        {
+            if (e.department.getId()==this.id)
+            {
+                salary+=e.calculateSalary();
+            }
+            
+        }
+        return salary;
     }
     public UUID getId()
     {
         return this.id;
+    }
+    public void setEmployees( List<Employee> emplo)
+    {
+        this.employees=emplo;
+    }
+    public double findEmployee(UUID id)
+    {
+        double salary=0;
+        for (Employee e : employees)
+        {
+            if (e.id==id)
+            {
+                salary=e.calculateSalary();
+            }
+            
+        }
+        return salary;
     }
 }
