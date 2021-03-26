@@ -12,4 +12,9 @@ public class EmployeeByHours extends Employee {
     {
         return this.hours*CONSHORA;
     }
+
+    @Override
+    public String toString() {
+
+        return super.toString()+String.format(" salario %s $, pago por horas", this.calculateSalary());    }
 }

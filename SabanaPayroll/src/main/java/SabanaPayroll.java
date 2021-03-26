@@ -4,8 +4,10 @@ import java.util.UUID;
 
 public class SabanaPayroll 
 {
+    public static String a = "";
     double salary=0;
     private List<Department> departments=new ArrayList<>();
+
     public double calculateEmployeeSalary(UUID employeeId)
     {
         double salary = 0;
@@ -38,7 +40,13 @@ public class SabanaPayroll
     }
     public void printPayroll()
     {
-     
+        
+        for (Department d:this.departments)
+        {
+            a=d.findRealEmployee();
+        }
+        System.out.println(a);
+        
     }
     public void setDepartments( List<Department> depa )
     {

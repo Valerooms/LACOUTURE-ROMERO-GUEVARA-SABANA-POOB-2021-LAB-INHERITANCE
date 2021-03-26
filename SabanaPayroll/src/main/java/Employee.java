@@ -17,7 +17,7 @@ public class Employee
     @Override
     public String toString()
     {
-        return "a";
+        return String.format("%s %s, departamento %s, ", this.name, this.lastName, this.department.getName() );
     }
     public UUID getId()
     {

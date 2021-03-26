@@ -102,19 +102,22 @@ public class SabanaNominaTest
         assertTrue(Double.compare(17.92,s1.calculateUniversitySalaries()) ==0);
 
     }
-
-    /*
     @Test
-    public void shouldPrintPayroll()
-    {
-        //assertEquals("Juan Valderrama, Ingenieria, salario 2$, pago por comisión \n"+"Mia Lacouture, Medicinca, salario 15$, pago por horas\n"+"Vale Romero, Psicologia, salario 0.92$, pago salario",s1.printPayroll());
-        /*
-        assertEquals(String.format("%s %s, departamento %s, salario %s, pago por comisión",ec1.name,ec1.lastName,ec1.department,ec1.calculateSalary())+
-                String.format("%s %s, departamento %s, salario %s, pago por horas",ec1.name,ec1.lastName,ec1.department,ec1.calculateSalary())+
-                String.format("%s %s, departamento %s, salario %s, pago por comisión",ec1.name,ec1.lastName,ec1.department,ec1.calculateSalary()),s1.printPayroll());
+    public void shouldPrintPayroll() {
+        departments.add(d1);
+        departments.add(d2);
+        departments.add(d3);
+        employees.add(ec1);
+        employees.add(eh1);
+        employees.add(es1);
+        s1.setDepartments(departments);
+        d1.setEmployees(employees);
+        d2.setEmployees(employees);
+        d3.setEmployees(employees);
+        s1.printPayroll();
 
-         */
-        //System.out.println(s1.printPayroll());
+    }
+
 
         
 

@@ -12,4 +12,10 @@ public class EmployeeByComission extends Employee {
     {
         return this.productos*COMISSION;
     }
+    
+    @Override
+    public String toString() {
+        
+        return super.toString()+String.format(" salario %s $, pago por comision", this.calculateSalary());
+    }
 }

@@ -13,4 +13,10 @@ public class EmployeeBySalary extends Employee {
     {
         return this.salary*(1.0-(EmployeeBySalary.HEALTH_DISCOUNT+EmployeeBySalary.SOCIAL_EQUITY_DISCOUNT));
     }
+
+    @Override
+    public String toString() {
+
+        return super.toString()+String.format(" salario %s $, pago por salario", this.calculateSalary());    
+    }
 }

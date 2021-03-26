@@ -4,6 +4,7 @@ import java.util.UUID;
 
 public class Department 
 {
+    
     public UUID id;
     public String name;
     private List<Employee> employees=new ArrayList<>();
@@ -45,5 +46,22 @@ public class Department
             
         }
         return salary;
+    }
+    
+    public String findRealEmployee()
+    {
+        String es = "";
+        for (Employee e: this.employees)
+        {
+            es=es+e.toString()+"\n";
+        }
+       
+       return es;
+    }
+   
+     
+
+    public String getName() {
+        return name;
     }
 }
